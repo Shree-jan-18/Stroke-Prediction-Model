@@ -38,7 +38,7 @@ Dataset file: `healthcare-dataset-stroke-data.csv`
 Install the libraries with:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
 ## Disclaimer
